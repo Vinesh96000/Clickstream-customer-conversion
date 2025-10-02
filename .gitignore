@@ -1,0 +1,21 @@
+# Ignore the Python virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore saved model files (optional, but good practice)
+# If you need to submit these to Guvi, you can remove the line below
+*.joblib
+
+# Ignore the plots folder
+plots/
+
+# Ignore large data files (optional, but good practice)
+# If you need to submit these to Guvi, you can remove the line below
+data/
+
+# Ignore MLflow experiment logs
+venv/
+mlruns/
