@@ -83,4 +83,4 @@ Four distinct customer segments were identified using K-Means:
 
 ## ✒️ Author
 
--   Project completed by **[Your Name Here]** as part of the Guvi AML course.
+-   Project completed by **[Vinesh J]** as part of the Guvi AML course.
